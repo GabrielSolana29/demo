@@ -1,4 +1,4 @@
 THis is a simple example read file 
 hello
-ñaksjd
-f 
+-TROUBLe
+i hoep is not too muchi trouble 
